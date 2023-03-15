@@ -1,3 +1,3 @@
--- Creates a new database
--- Query to create the database hbtn_0c_0 in MySQL server
+-- Script that creates the database IF NOT EXISTS
+
 CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
